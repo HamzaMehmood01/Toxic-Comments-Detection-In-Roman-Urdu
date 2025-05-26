@@ -37,9 +37,6 @@ The dataset was split into training and testing sets to train and evaluate the m
 
 Confusion matrices were also generated to visualize the performance of the classifiers.
 
-## Key Findings
-
-[Summarize the key findings from your model evaluation. For example, mention which model performed best and why, or any interesting insights from the confusion matrices.]
 
 ## Technologies Used
 
@@ -51,16 +48,9 @@ Confusion matrices were also generated to visualize the performance of the class
 -   Scikit-learn
 -   NLTK
 
-## How to Run the Code
-
-[Briefly explain how someone can run your code if it's hosted on a platform like GitHub. For example, mention cloning the repository and running the notebook in Google Colab.]
-
-## Acknowledgements
-
-[Optional: Thank any resources, datasets, or libraries you used.]
 
 ## Contact
 
 Feel free to connect with me on LinkedIn to discuss this project or other interesting data science and machine learning topics!
 
-[Your LinkedIn Profile URL]
+[(https://www.linkedin.com/in/hamza-mehmood-493a98162/)]
